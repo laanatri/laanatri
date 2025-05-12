@@ -11,7 +11,7 @@ J'aime explorer les technologies frontend et backend pour créer des expérience
 * **Frontend :** React, Tailwind CSS, HTML, CSS, JavaScript
 * **Backend :** PHP, Python
 * **Base de données :** MySQL, PostgreSQL
-* **Outils et pratiques :** Git, GitHub, API REST, TDD, CI/CD
+* **Outils et pratiques :** Git, GitHub, API REST
 <!--* Node.js, Express.js, TypeScript-->
 <!--
 ---
