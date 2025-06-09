@@ -8,7 +8,7 @@ J'aime explorer les technologies frontend et backend pour créer des expérience
 
 ## 🛠️ Mes Compétences
 
-* **Frontend :** React, Tailwind CSS, HTML, CSS, JavaScript
+* **Frontend :** HTML, CSS, JavaScript, React, Tailwind CSS, Angular
 * **Backend :** Node.js, Express, Python
 * **Base de données :** MySQL, PostgreSQL
 * **Outils et pratiques :** Git, GitHub, API REST
@@ -35,8 +35,8 @@ J'aime explorer les technologies frontend et backend pour créer des expérience
 ## 🎯 En ce moment, je me concentre sur :
 
 * Renforcer mes compétences React
-* Apprendre la conception de bases de données
-* Appprendre PHP et Python
+* Appprendre Angular / Java
+* Continuer l'apprentissage de Python
 <!--* Contribuer à des projets open source
 * Apprendre les bonnes pratiques DevOps-->
 
