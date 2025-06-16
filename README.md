@@ -9,7 +9,7 @@ J'aime explorer les technologies frontend et backend pour créer des expérience
 ## 🛠️ Mes Compétences
 
 * **Frontend :** HTML, CSS, JavaScript, React, Tailwind CSS, Angular
-* **Backend :** Node.js, Express, Python
+* **Backend :** Node.js, Express, Python, Java, Spring Boot
 * **Base de données :** MySQL, PostgreSQL
 * **Outils et pratiques :** Git, GitHub, API REST
 <!--* Node.js, Express.js, TypeScript-->
@@ -35,7 +35,7 @@ J'aime explorer les technologies frontend et backend pour créer des expérience
 ## 🎯 En ce moment, je me concentre sur :
 
 * Renforcer mes compétences React
-* Appprendre Angular / Java
+* Appprendre Angular / Java(Spring Boot, Hibernate)
 * Continuer l'apprentissage de Python
 <!--* Contribuer à des projets open source
 * Apprendre les bonnes pratiques DevOps-->
