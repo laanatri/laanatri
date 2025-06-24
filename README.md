@@ -1,21 +1,59 @@
 # 🌟 Bienvenue sur mon GitHub !
 
 👋 **Je suis Adélaïde Laanatri !** \
-Développeur Fullstack, je recherche une alternance. \
-J'aime explorer les technologies frontend et backend pour créer des expériences utilisateurs complètes. 🚀
+Développeuse **Back-end**, je recherche une alternance. \
+Je suis passionnée par la création d'APIs, la gestion des bases de données.  
+J’aime aussi explorer les technologies **Front-end** pour comprendre l'ensemble de la chaîne de développement et offrir des expériences utilisateurs complètes. 🚀
 
 ---
 
-## 🛠️ Mes Compétences
+## 🛠️ Mes Compétences Techniques
 
-* **Frontend :** HTML, CSS, JavaScript, Tailwind, Bootstrap, React, Angular
-* **Backend :** Node.js, Express, Python, Java, Spring Boot, Hibernate
-* **Base de données :** MySQL, PostgreSQL, Prisma, Neon
-* **Outils et pratiques :** Git, GitHub, Vercel
-<!--* Node.js, Express.js, TypeScript-->
+
+### 🖥️ Back-end
+
+#### 🛠️ Technologies
+- **Langages & Frameworks :** Node.js, Express.js, Java, Spring Boot, Hibernate
+- **Base de données :** MySQL, PostgreSQL, Prisma, Neon
+
+#### 📚 Concepts
+- API REST / CRUD
+- Architecture MVC
+- Authentification / JWT / Sessions
+<!--- Sécurité des API-->
+- Routage et middleware
+- Intégration de base de données
+- Gestion des erreurs
+- Tests back-end de base (Postman, Thunder)
+
+---
+
+### 🎨 Front-end
+
+#### 🛠️ Technologies
+- HTML, CSS, JavaScript  
+- React, Angular, Next.js
+- Tailwind CSS, Bootstrap
+
+#### 📚 Concepts
+- Composants réutilisables
+- Props & State (React)
+- Routing (React Router)
+- Appels API (Fetch)
+<!--- Axios-->
+- Responsive design
+- Gestion d’événements
+- Formulaires & validations
+
+---
+
+### 🧰 Outils
+- Git & GitHub
+- Vercel, Neon
+- VS Code, IntelliJ 
+- Méthodologie Agile (Scrum / Kanban)
 <!--
 ---
-
 ## 📂 Mes Projets
 
 * **Projet 1:** [Nom du projet](lien) – Description rapide du projet et des technos utilisées.
@@ -34,9 +72,9 @@ J'aime explorer les technologies frontend et backend pour créer des expérience
 
 ## 🎯 En ce moment, je me concentre sur :
 
-* Renforcer mes compétences React
-* Appprendre Angular / Java (Spring Boot, Hibernate)
-* Continuer l'apprentissage de Python
+- Approfondir mes compétences en **Java**, notamment avec **Spring Boot** & **Hibernate**
+- Implémenter une **authentification sécurisée** en Java (Spring Security, JWT, gestion des rôles)
+- Intégrer la **communication en temps réel avec WebSockets** en Java (Spring WebSocket / STOMP)
 <!--* Contribuer à des projets open source
 * Apprendre les bonnes pratiques DevOps-->
 
